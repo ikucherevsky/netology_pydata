@@ -1,4 +1,9 @@
 My first commit
+My second
 
+<<<<<<< HEAD
 
 11
+=======
+'My first commit'
+>>>>>>> 38482d4611611ae4120b4612a36f0436f8d35ae6
